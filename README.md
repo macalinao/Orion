@@ -1,4 +1,4 @@
 Orion
 =====
 
-C++Maths Library
+C++ Math Library
